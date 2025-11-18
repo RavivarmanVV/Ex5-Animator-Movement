@@ -27,7 +27,7 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## PlayerController:
 
-c#
+```
 using UnityEngine;
 
 public class movement : MonoBehaviour
@@ -53,7 +53,7 @@ public class movement : MonoBehaviour
     }
 }
 
-
+```
 ## Output:
 
 ![alt text](image.png)
